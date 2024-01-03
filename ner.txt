@@ -1,0 +1,17 @@
+american NORP
+robert
+a.heinlein PERSON
+weeks DATE
+first ORDINAL
+two CARDINAL
+g.p.putnam GPE
+december DATE
+1959 DATE
+first ORDINAL
+juan
+johnny
+rico PERSON
+filipino NORP
+rico LAW
+1950s DATE
+u.s. GPE

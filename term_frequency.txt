@@ -1,0 +1,178 @@
+
+
+Sentence 1:
+
+America 1 0.142857
+has 1 0.142857
+changed 1 0.142857
+dramatically 1 0.142857
+during 1 0.142857
+recent 1 0.142857
+years 1 0.142857
+
+
+Sentence 2:
+
+Not 1 0.0238095
+only 1 0.0238095
+has 1 0.0238095
+the 3 0.0714286
+number 1 0.0238095
+of 3 0.0714286
+graduates 1 0.0238095
+in 2 0.047619
+traditional 1 0.0238095
+engineering 4 0.0952381
+disciplines 1 0.0238095
+such 1 0.0238095
+as 1 0.0238095
+mechanical 1 0.0238095
+civil 1 0.0238095
+electrical 1 0.0238095
+chemical 1 0.0238095
+and 2 0.047619
+aeronautical 1 0.0238095
+declined 1 0.0238095
+but 1 0.0238095
+most 1 0.0238095
+premier 1 0.0238095
+American 1 0.0238095
+universities 1 0.0238095
+curricula 1 0.0238095
+now 1 0.0238095
+concentrate 1 0.0238095
+on 1 0.0238095
+encourage 1 0.0238095
+largely 1 0.0238095
+study 1 0.0238095
+science 1 0.0238095
+
+
+Sentence 3:
+
+As 1 0.0322581
+a 1 0.0322581
+result 1 0.0322581
+there 1 0.0322581
+are 1 0.0322581
+declining 1 0.0322581
+offerings 1 0.0322581
+in 1 0.0322581
+engineering 1 0.0322581
+subjects 2 0.0645161
+dealing 1 0.0322581
+with 1 0.0322581
+infrastructure 1 0.0322581
+the 1 0.0322581
+environment 1 0.0322581
+and 2 0.0645161
+related 1 0.0322581
+issues 1 0.0322581
+greater 1 0.0322581
+concentration 1 0.0322581
+on 1 0.0322581
+high 1 0.0322581
+technology 1 0.0322581
+largely 1 0.0322581
+supporting 1 0.0322581
+increasingly 1 0.0322581
+complex 1 0.0322581
+scientific 1 0.0322581
+developments 1 0.0322581
+
+
+Sentence 4:
+
+While 1 0.0625
+the 2 0.125
+latter 1 0.0625
+is 1 0.0625
+important 1 0.0625
+it 1 0.0625
+should 1 0.0625
+not 1 0.0625
+be 1 0.0625
+at 1 0.0625
+expense 1 0.0625
+of 1 0.0625
+more 1 0.0625
+traditional 1 0.0625
+engineering 1 0.0625
+
+
+Sentence 5:
+
+Rapidly 1 0.037037
+developing 1 0.037037
+economies 1 0.037037
+such 1 0.037037
+as 3 0.111111
+China 1 0.037037
+and 3 0.111111
+India 1 0.037037
+well 1 0.037037
+other 1 0.037037
+industrial 1 0.037037
+countries 1 0.037037
+in 1 0.037037
+Europe 1 0.037037
+Asia 1 0.037037
+continue 1 0.037037
+to 1 0.037037
+encourage 1 0.037037
+advance 1 0.037037
+the 1 0.037037
+teaching 1 0.037037
+of 1 0.037037
+engineering 1 0.037037
+
+
+Sentence 6:
+
+Both 1 0.0526316
+China 1 0.0526316
+and 2 0.105263
+India 1 0.0526316
+respectively 1 0.0526316
+graduate 1 0.0526316
+six 1 0.0526316
+eight 1 0.0526316
+times 1 0.0526316
+as 2 0.105263
+many 1 0.0526316
+traditional 1 0.0526316
+engineers 1 0.0526316
+does 1 0.0526316
+the 1 0.0526316
+United 1 0.0526316
+States 1 0.0526316
+
+
+Sentence 7:
+
+Other 1 0.037037
+industrial 1 0.037037
+countries 1 0.037037
+at 1 0.037037
+minimum 1 0.037037
+maintain 1 0.037037
+their 1 0.037037
+output 1 0.037037
+while 1 0.037037
+America 1 0.037037
+suffers 1 0.037037
+an 1 0.037037
+increasingly 1 0.037037
+serious 1 0.037037
+decline 1 0.037037
+in 1 0.037037
+the 1 0.037037
+number 1 0.037037
+of 2 0.0740741
+engineering 1 0.037037
+graduates 1 0.037037
+and 1 0.037037
+a 1 0.037037
+lack 1 0.037037
+well-educated 1 0.037037
+engineers 1 0.037037
